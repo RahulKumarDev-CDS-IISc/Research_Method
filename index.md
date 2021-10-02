@@ -8,26 +8,5 @@ Currently, I am working on Deep learning based implementation of Maximum likelih
 
 I am the recipient of <a href = "https://cds.iisc.ac.in/resources/fellowships/ge-healthcare-m-tech-fellowship/" target="blank"> <b> GE Healthcare Fellowship</b> </a>.
 
-#### Module 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [[Github Page](https://rahulkumardev-cds-iisc.github.io/DS200/){:target="_blank"}]
+#### Module 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [[Github Page](https://github.com/RahulKumarDev-CDS-IISc/ds200){:target="_blank"}]
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-
-
----
-
-
-
-
----
-
