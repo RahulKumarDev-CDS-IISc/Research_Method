@@ -1,15 +1,12 @@
 ## Portfolio
 
-I am a MTech Coursework student working in the field of computational sciences, currently working under  <a href = "http://cds.iisc.ac.in/faculty/sashi/" target = "blank"> <b>Prof. Sashi Kumaar Ganesan</b> </a> at the department of Computational and Data Sciences (CDS), Indian Institute of Science (IISc), Bangalore. 
+I am a MTech Coursework student in Computational and Data Sciences (CDS) at Indian Institute of Science (IISc), Bangalore. I am currently working in <a href = "http://cds.iisc.ac.in/faculty/phani/MIG/index.html" target = "blank"> <b>Medical Imaging Group (MIG)</b> </a>under the supervision of<a href = "http://cds.iisc.ac.in/faculty/yalavarthy/" target = "blank"> <b>Prof. PHANEENDRA K. YALAVARTHY</b> </a>  . I did my Bachelor's in Technology in Computer Science and Engineering (CSE) from SRM Institute of Science and Technology in 2020.
 
-Founder of H.A.R.S Hitech Engineers (OPC) Pvt. Ltd. which provides 3D design for industrial part and components and studies the computational analysis of machine and parts to enhance the efficiency of clients’ machinery and components.
+My research area includes Computer Vision, Image Processing, Natural Language Processing, Machine Learning, Deep Learning, Statistical Modeling.
 
-My research area includes Multiscale modeling of Fluid Dynamics, Robot Learning and Control System and Time Series modeling using Machine learning and Deep learning techniques.
+Currently, I am working on Deep learning based implementation of Maximum likelihood Expectation maximization(ML-EM) for Computed Tomography(CT) image reconstruction.
 
-Apart from research, I enjoy reading Law and Political philosophy , Working out and Cooking.
-
-The website of Computational Mathematics Group of Indian Institute of Science can be found <a href = "https://cmg.cds.iisc.ac.in/" target = "blank"> <b>CMG</b> </a>.
-
+I am the recipient of <a href = "https://cds.iisc.ac.in/resources/fellowships/ge-healthcare-m-tech-fellowship/" target="blank"> <b> GE Healthcare Fellowship</b> </a>.
 
 #### Module 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [[Github Page](https://rahulkumardev-cds-iisc.github.io/DS200/){:target="_blank"}]
 ---
